@@ -20,9 +20,10 @@ dos mesmos.
 
 ## 🛠️Tecnologias utilizadas:
 
-> Editor de código: vscode
-> Linguagens: python 
-
+> vscode
+> python
+> tkinter
+> sqlite3 
 
 ## Versões:
 
